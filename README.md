@@ -12,7 +12,7 @@ A simple, interactive nested comments section implemented using HTML, CSS, and J
 - Nested replies with no limit to the depth of nesting.
 - Simple and clean UI.
 
-## Deployed Link- 
+## Deployed Link- https://nestedcommentsapp.netlify.app/
 
 ## Getting Started
 
